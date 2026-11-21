@@ -1,0 +1,9 @@
+{
+  "name": "patch-guard-proof",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deliberately vulnerable test app for proving Patch Guard. Never deploy.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "dependencies": { "lodash": "4.17.15" }
+}
